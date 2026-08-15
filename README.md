@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
