@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1652-defuse-the-bomb](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1652-defuse-the-bomb) |
+| [1732-find-the-highest-altitude](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1732-find-the-highest-altitude) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1732-find-the-highest-altitude](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
