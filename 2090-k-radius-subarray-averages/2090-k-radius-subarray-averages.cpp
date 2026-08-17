@@ -7,7 +7,7 @@ public:
     long long sum = 0;
     for(int i = k;i<n;i++){
         if(k+k < n){
-        if((i-k> i+k-left)) break;
+      //  if((i-k> i+k-left)) break;
         if (i-k == i+k-left){
             sum += nums[i-k];
             break;
