@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2090-k-radius-subarray-averages](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2090-k-radius-subarray-averages) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
