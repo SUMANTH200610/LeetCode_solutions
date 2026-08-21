@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
