@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0066-plus-one) |
+| [0152-maximum-product-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
