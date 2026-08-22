@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
