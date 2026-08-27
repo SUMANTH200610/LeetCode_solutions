@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1652-defuse-the-bomb](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
