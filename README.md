@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0035-search-insert-position) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0704-binary-search) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
 ## Sliding Window
