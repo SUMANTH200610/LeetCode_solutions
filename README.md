@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1109-corporate-flight-bookings](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1109-corporate-flight-bookings) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1652-defuse-the-bomb](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Sliding Window
 |  |
 | ------- |
