@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## String Matching
 |  |
