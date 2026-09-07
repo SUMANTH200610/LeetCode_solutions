@@ -160,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Greedy
 |  |
