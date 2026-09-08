@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0724-find-pivot-index) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
 | ------- |
@@ -196,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
