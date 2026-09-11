@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
