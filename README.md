@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-clear-digits](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3174-clear-digits) |
 ## Binary Search
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
 | ------- |
