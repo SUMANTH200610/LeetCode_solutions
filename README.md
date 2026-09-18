@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
 | [3516-find-closest-person](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3516-find-closest-person) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
 ## Minimax
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0836-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
