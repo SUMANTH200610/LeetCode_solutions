@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1109-corporate-flight-bookings) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1598-crawler-log-folder](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1598-crawler-log-folder](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1598-crawler-log-folder](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3174-clear-digits) |
