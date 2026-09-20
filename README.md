@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-clear-digits](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3959-check-good-integer) |
 ## Bracket Sequences
 |  |
