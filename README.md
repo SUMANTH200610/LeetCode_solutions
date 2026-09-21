@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0622-design-circular-queue](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0622-design-circular-queue) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0622-design-circular-queue) |
 ## Stack
 |  |
 | ------- |
@@ -266,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
