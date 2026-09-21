@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1109-corporate-flight-bookings](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1109-corporate-flight-bookings) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1652-defuse-the-bomb) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1598-crawler-log-folder) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3174-clear-digits) |
