@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Stack
 |  |
 | ------- |
@@ -276,4 +277,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
