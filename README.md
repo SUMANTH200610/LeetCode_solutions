@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
 | [3516-find-closest-person](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3516-find-closest-person) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
