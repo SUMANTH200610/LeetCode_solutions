@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
