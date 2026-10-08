@@ -1,0 +1,23 @@
+class Solution {
+public:
+    bool prime(int n) {
+    if (n < 2) return false;
+
+    for (int i = 2; i * i <= n; i++) {
+        if (n % i == 0)
+            return false;
+    }
+
+    return true;
+}
+    bool checkPrimeFrequency(vector<int>& nums) {
+        unordered_map<int,int>m;
+        for(int i:nums){
+            m[i]++;
+        }
+        for(auto i:m){
+            if(prime(i.second)) return true;
+        }
+        return false;
+    }
+};
