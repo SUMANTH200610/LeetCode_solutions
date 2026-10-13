@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
