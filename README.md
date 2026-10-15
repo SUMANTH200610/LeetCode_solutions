@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
