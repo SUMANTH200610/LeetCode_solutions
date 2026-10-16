@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3701-compute-alternating-sum](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3701-compute-alternating-sum) |
 | [3959-check-good-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3959-check-good-integer) |
 ## Bracket Sequences
 |  |
