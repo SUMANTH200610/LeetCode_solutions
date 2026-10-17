@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -354,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
