@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0917-reverse-only-letters) |
 ## Divide and Conquer
 |  |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Queue
 |  |
