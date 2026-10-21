@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Stack
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Queue
