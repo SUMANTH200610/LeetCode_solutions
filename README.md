@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1544-make-the-string-great](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
