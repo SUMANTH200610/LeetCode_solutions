@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2769-find-the-maximum-achievable-number](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3516-find-closest-person](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
