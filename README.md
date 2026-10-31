@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
