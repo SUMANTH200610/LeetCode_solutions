@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
