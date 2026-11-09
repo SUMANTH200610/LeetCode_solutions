@@ -29,8 +29,9 @@ public:
         }
         if(carry){
             temp->next = new ListNode(carry);
-            // temp = temp->next;
-            // free(temp);
+            temp = temp->next;
+             temp = temp->next;
+            free(temp);
         }
         return head->next;
     }
