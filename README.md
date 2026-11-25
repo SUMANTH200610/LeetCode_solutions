@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3151-special-array-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3516-find-closest-person](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3174-clear-digits) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -415,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SUMANTH200610/LeetCode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
